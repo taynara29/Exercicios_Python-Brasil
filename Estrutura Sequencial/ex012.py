@@ -9,3 +9,4 @@ peso_ideal = (72.7 * altura) - 58
 # peso_ideal = round(peso_ideal, 2)
 
 print(f"Seu peso ideal e: {peso_ideal:.2f}")
+
